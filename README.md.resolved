@@ -1,9 +1,6 @@
 # TurkeySMS Node.js SDK (Official) 🟢
 
-[![npm version](https://img.shields.io/npm/v/turkeysms-node.svg)](https://www.npmjs.com/package/turkeysms-node)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Official Node.js SDK for the **TurkeySMS API V4**. High-performance, Promise-based client for SMS and OTP services.
+Official **TurkeySMS Node.js Library** — High-performance, asynchronous SMS & OTP integration for modern JavaScript server environments and high-traffic APIs.
 
 ## 🛠 Installation
 
